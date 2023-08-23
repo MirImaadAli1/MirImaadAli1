@@ -1,5 +1,17 @@
+<div align="center">
 
-![output-onlinegiftools](https://github.com/MirImaadAli1/MirImaadAli1/assets/125821706/7430a69c-4289-4679-a596-52d4353f6fad)
+[![][logo-url]][repo-url]  
+
+**Tailwind CSS Components**  
+[ [See repo ↗︎][repo-url] ]
+  
+
+</div>
+
+[![][banner-url]][repo-url]  
+
+
+[banner-url]: https://github.com/MirImaadAli1/MirImaadAli1/assets/125821706/7430a69c-4289-4679-a596-52d4353f6fad
 
 ### Hi there 👋
 
@@ -9,5 +21,3 @@ I'm Mir Imaad Ali, a third-year student at Heriot-Watt University pursuing a BSc
 
 
 
-
-![output-onlinegiftools](https://github.com/MirImaadAli1/MirImaadAli1/assets/125821706/7430a69c-4289-4679-a596-52d4353f6fad)
