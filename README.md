@@ -1,4 +1,6 @@
 
+![output-onlinegiftools](https://github.com/MirImaadAli1/MirImaadAli1/assets/125821706/7430a69c-4289-4679-a596-52d4353f6fad)
+
 ### Hi there 👋
 
 I'm Mir Imaad Ali, a third-year student at Heriot-Watt University pursuing a BSc in Computer Science. With a strong passion for AI, machine learning, game development, and front-end and back-end development, I am eagerly exploring opportunities to enhance my expertise in these fields. As I embark on my journey in the industry, I am dedicated to acquiring valuable experiences that will not only nurture my passion but also empower me to excel in my chosen domain.
@@ -8,3 +10,4 @@ I'm Mir Imaad Ali, a third-year student at Heriot-Watt University pursuing a BSc
 
 
 
+![output-onlinegiftools](https://github.com/MirImaadAli1/MirImaadAli1/assets/125821706/7430a69c-4289-4679-a596-52d4353f6fad)
