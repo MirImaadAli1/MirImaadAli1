@@ -5,3 +5,4 @@ I'm Mir Imaad Ali, a third-year student at Heriot-Watt University pursuing a BSc
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirImaadAli1)](https://github.com/anuraghazra/github-readme-stats)
