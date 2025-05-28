@@ -21,12 +21,9 @@ Hi 👋, I'm Mir Imaad Ali, a fourth-year student at Heriot-Watt University purs
       <a href="https://github.com/MirImaadAli1">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MirImaadAli1&theme=radical&title_color=ff3068" />
       </a>
-      <a href="https://github.com/MirImaadAli1">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirImaadAli1&layout=compact&theme=radical&title_color=ff3068" />
-      </a>
       <!-- Custom Language Grid -->
       <h2>🧠 Languages Known</h2>
-      <div align="left">
+      <div align="center">
         <table>
           <tr>
             <td align="center" style="padding:10px;">
