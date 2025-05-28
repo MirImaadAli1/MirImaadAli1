@@ -15,19 +15,28 @@ Hi 👋, I'm Mir Imaad Ali, a fourth-year student at Heriot-Watt University purs
 
 <table>
   <tr>
-    <td width="60%">
+    <!-- Left Column -->
+    <td width="60%" valign="top">
+      <h2>📊 GitHub Stats</h2>
       <a href="https://github.com/MirImaadAli1">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MirImaadAli1&theme=radical&title_color=ff3068" />
       </a>
-      <a href="https://github.com/MirImaadAli1">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirImaadAli1&layout=compact&theme=radical&title_color=ff3068" />
-      </a>
+      <h2>🧠 Languages Known</h2>
+      <div align="left">
+        <p float="left">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="ReactJS" title="ReactJS"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="SQL" title="SQL"/>
+        </p>
+      </div>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/siegward.gif" width="100%" alt="Animated Gif" />
+    <!-- Right Column -->
+    <td width="40%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/siegward.gif" width="100%" alt="Animated GIF"/>
     </td>
   </tr>
 </table>
+
 
 
 </div>
