@@ -13,12 +13,9 @@ Hi 👋, I'm Mir Imaad Ali, a fourth-year student at Heriot-Watt University purs
 <div>
 </p>
 
-## Github Stats
-
 <table>
   <tr>
     <td width="60%">
-      <h2>📊 GitHub Stats</h2>
       <a href="https://github.com/MirImaadAli1">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MirImaadAli1&theme=radical&title_color=ff3068" />
       </a>
