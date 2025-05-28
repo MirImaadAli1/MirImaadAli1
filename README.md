@@ -1,5 +1,5 @@
 <div style="max-height: 200px; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/preview.gif" width="100%" height="auto" alt="Project Preview">
+  <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/preview.jpg" width="100%" height="auto" alt="Project Preview">
 </div>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
