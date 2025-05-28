@@ -21,9 +21,6 @@ Hi 👋, I'm Mir Imaad Ali, a fourth-year student at Heriot-Watt University purs
       <a href="https://github.com/MirImaadAli1">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MirImaadAli1&theme=radical&title_color=ff3068" />
       </a>
-      <a href="https://github.com/MirImaadAli1">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirImaadAli1&layout=compact&theme=radical&title_color=ff3068" />
-      </a>
     </td>
     <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/siegward.gif" width="100%" alt="Animated Gif" />
