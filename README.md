@@ -1,4 +1,4 @@
-<a href="https://top.gg/bot/623481583411658753"><img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/preview.jpg" width="100%" height="200px"/></a>
+<a href="https://top.gg/bot/623481583411658753"><img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/preview.jpg" width="100%" height="300px"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
