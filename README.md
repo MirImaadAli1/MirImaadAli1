@@ -14,9 +14,10 @@ Hi 👋, I'm Mir Imaad Ali, a fourth-year student at Heriot-Watt University purs
 </p>
 
 <!-- Two Column Layout: GitHub Stats + GIF -->
+<!-- Two Column Layout: GitHub Stats + GIF -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%">
       <h2>📊 GitHub Stats</h2>
       <a href="https://github.com/MirImaadAli1">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MirImaadAli1&theme=radical&title_color=ff3068" />
@@ -24,44 +25,12 @@ Hi 👋, I'm Mir Imaad Ali, a fourth-year student at Heriot-Watt University purs
       <a href="https://github.com/MirImaadAli1">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirImaadAli1&layout=compact&theme=radical&title_color=ff3068" />
       </a>
-      <!-- Custom Language Grid -->
-      <h2>🧠 Languages Known</h2>
-      <div align="left">
-        <table>
-          <tr>
-            <td align="center" style="padding:10px;">
-              <div style="width:100px;height:100px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.3);padding:10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
-                <strong>Python</strong>
-              </div>
-            </td>
-            <td align="center" style="padding:10px;">
-              <div style="width:100px;height:100px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.3);padding:10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="ReactJS"/><br/>
-                <strong>ReactJS</strong>
-              </div>
-            </td>
-            <td align="center" style="padding:10px;">
-              <div style="width:100px;height:100px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.3);padding:10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/><br/>
-                <strong>SQL</strong>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
     </td>
-    <!-- Right Column: GIF -->
-    <td width="40%" align="center" valign="top">
+    <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/siegward.gif" width="100%" alt="Animated Gif" />
     </td>
   </tr>
 </table>
-
-
-
-
-
 </div>
 
 
