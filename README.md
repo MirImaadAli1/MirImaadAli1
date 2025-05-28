@@ -1,4 +1,4 @@
-<div style="max-height: 200px; overflow: hidden;">
+<div style="height: 20px; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/preview.jpg" width="100%" height="auto" alt="Project Preview">
 </div>
 <p align="center">
