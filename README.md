@@ -15,7 +15,9 @@ Hi 👋, I'm Mir Imaad Ali, a fourth-year student at Heriot-Watt University purs
 
 ## Github Stats
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/siegward.gif"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/siegward.gif" width="500px" alt="Siegward GIF" />
+</p>
 <a href="https://github.com/MirImaadAli1">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MirImaadAli1&theme=radical&title_color=ff3068">
 </a>
