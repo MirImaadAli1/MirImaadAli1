@@ -13,20 +13,10 @@ Hi 👋, I'm Mir Imaad Ali, a fourth-year student at Heriot-Watt University purs
 <div>
 </p>
 
-<!-- Two Column Layout: GitHub Stats + GIF -->
-<!-- Two Column Layout: GitHub Stats + GIF -->
-<table>
-  <tr>
-    <td width="60%">
-      <a href="https://github.com/MirImaadAli1">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MirImaadAli1&theme=radical&title_color=ff3068" />
-      </a>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/siegward.gif" width="100%" alt="Animated Gif" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="38%" src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/siegward.gif"/>
+<a href="https://github.com/MirImaadAli1">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MirImaadAli1&theme=radical&title_color=ff3068">
+</a>
 </div>
 
 
