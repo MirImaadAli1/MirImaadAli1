@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/cat.jpg" width="100%" height="300px" alt="Project Preview">
+<img src="https://raw.githubusercontent.com/MirImaadAli1/MirImaadAli1/main/cat-ezgif.com-crop.jpg" width="100%" height="auto" alt="Project Preview">
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
