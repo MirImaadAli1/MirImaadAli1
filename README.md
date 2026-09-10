@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img src="assets/header-light.png" alt="Mir Imaad Ali. AI / Machine Learning Engineer and Technical Lead at Sentiment AI, Dubai. Geometric grayscale portrait." width="100%">
+  <img src="assets/header-light.png" alt="Mir Imaad Ali. AI / Machine Learning Engineer and Technical Lead at Sentiment AI, Dubai. Geometric grayscale duck holding a knife horizontally in its bill." width="100%">
 </picture>
 
 [Portfolio ↗](https://portfolio-beta-nine-19h42szfbx.vercel.app) · [Resume ↓](https://portfolio-beta-nine-19h42szfbx.vercel.app/Mir_Imaad_Ali_Resume.pdf) · [LinkedIn ↗](https://www.linkedin.com/in/mir-imaad-ali-bb2390220/) · [Email ↗](mailto:mirimaadali1@gmail.com)
