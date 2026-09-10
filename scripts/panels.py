@@ -25,10 +25,10 @@ PANELS={
 for dark in [False,True]:
  theme='dark' if dark else 'light'; bg='#191919' if dark else '#ededeb'; fg='#fff' if dark else '#111'; line='#858581' if dark else '#777773'
  for key,(title,lines) in PANELS.items():
-  height=98+len(lines)*34
-  svg=f'<svg xmlns="http://www.w3.org/2000/svg" width="840" height="{height}" viewBox="0 0 840 {height}" role="img"><title>{escape(title+". "+" ".join(lines))}</title><rect width="840" height="{height}" fill="{bg}"/><path d="M.5 0V{height}M839.5 0V{height}M28 .5H812" stroke="{line}"/><text x="28" y="40" font-family="monospace" font-size="18" fill="{fg}">{escape(title)}</text>'
+  height=78+len(lines)*26
+  svg=f'<svg xmlns="http://www.w3.org/2000/svg" width="840" height="{height}" viewBox="0 0 840 {height}" role="img"><title>{escape(title+". "+" ".join(lines))}</title><rect width="840" height="{height}" fill="{bg}"/><path d="M.5 0V{height}M839.5 0V{height}M28 .5H812" stroke="{line}"/><text x="28" y="40" font-family="monospace" font-size="14" fill="{fg}">{escape(title)}</text>'
   for i,value in enumerate(lines):
-   svg+=f'<text x="28" y="{86+i*34}" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="{fg}">{escape(value)}</text>'
+   svg+=f'<text x="28" y="{68+i*26}" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="{fg}">{escape(value)}</text>'
   (ROOT/'assets'/f'{key}-{theme}.svg').write_text(outline(svg+'</svg>'))
  for key,label in [('website','PORTFOLIO >'),('resume','RESUME >'),('linkedin','LINKEDIN >'),('email','EMAIL >')]:
-  (ROOT/'assets'/f'link-{key}-{theme}.svg').write_text(outline(f'<svg xmlns="http://www.w3.org/2000/svg" width="420" height="68" viewBox="0 0 420 68"><rect x=".5" y=".5" width="419" height="67" fill="{bg}" stroke="{line}"/><text x="24" y="43" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="{fg}">{label}</text></svg>'))
+  (ROOT/'assets'/f'link-{key}-{theme}.svg').write_text(outline(f'<svg xmlns="http://www.w3.org/2000/svg" width="420" height="52" viewBox="0 0 420 52"><rect x=".5" y=".5" width="419" height="51" fill="{bg}" stroke="{line}"/><text x="24" y="34" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="{fg}">{label}</text></svg>'))
