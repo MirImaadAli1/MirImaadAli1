@@ -4,7 +4,7 @@ Proposed sidebar bio:
 AI / Machine Learning Engineer at Sentiment AI. Building LLM systems, voice agents, and evaluation pipelines.
 
 Location: Dubai, UAE
-Website: https://portfolio-beta-nine-19h42szfbx.vercel.app
+Website: https://mirimaadali.dev
 
 The current website portrait is assets/portrait.png. Header PNGs provide consistent portrait rendering in GitHub READMEs. The activity panels have light and dark variants.
 
